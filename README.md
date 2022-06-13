@@ -1,13 +1,13 @@
 # Guess-the-Flag
 HackingWithSwift (19-20-21) Day and Finished Project
 
-{ @2x and @3x
-  Asset catologs 
-  UIButton
-  CALayer
-  UIColor
-  Random numbers
-  Actions
+{ @2x and @3x,
+  Asset catologs, 
+  UIButton,
+  CALayer,
+  UIColor,
+  Random numbers,
+  Actions,
   UIAlertController }
   
   Extra! (Challenge completed)
